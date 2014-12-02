@@ -32,6 +32,7 @@ import com.amazonaws.services.kinesis.clientlibrary.lib.worker.KinesisClientLibC
 import com.amazonaws.services.kinesis.clientlibrary.lib.worker.Worker;
 
 
+
 /**
  * Sample Kinesis Application.
  */
